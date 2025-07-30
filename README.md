@@ -54,24 +54,3 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🪪 AI Business Card Analyzer  
-AI-powered app that extracts and analyzes business cards using OpenAI Vision, AWS Lambda, and Firebase.  
-[🔗 GitHub](https://github.com/shivpatel0812/ai_business_analyzer)
-
-### 🏢 Building Capacity Tracker  
-Real-time library occupancy tracker using Raspberry Pi, YOLOv8, and cloud deployment.  
-[🔗 GitHub](https://github.com/shivpatel0812/Building_Cap_Track)
-
-### 🎬 VideoAgent  
-CLIP-powered video understanding app with async APIs and vector search using PostgreSQL.  
-[🔗 GitHub](https://github.com/shivpatel0812/videoagent)
-
-### 🏈 NFL Defense Classification  
-Machine learning pipeline classifying NFL plays based on defensive formations.  
-[🔗 GitHub](https://github.com/shivpatel0812/NFLDefenseClassification)
-
-### 📊 AI Career Prediction  
-Predicts career paths based on input skillsets and background using Python-based ML models.  
-[🔗 GitHub](https://github.com/shivpatel0812/AICareerPrediction)
